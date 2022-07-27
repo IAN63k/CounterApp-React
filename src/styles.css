@@ -1,0 +1,26 @@
+
+html, body{
+    background-color: #21232A;
+    color: white;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 1.3rem;
+    padding: 70px;
+}
+
+
+button{
+    border: none;
+    cursor: pointer;
+    font-size: 1.3rem;
+    font-weight: 800;
+    margin: 5px;
+    min-width: 65px;
+    padding: 15px;
+}
+
+button:active{
+    background-color: #21232A;
+    border: 1px solid white;
+    color: white;
+}
+
